@@ -1,0 +1,7 @@
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\bin\Debug\TrailingZero.exe.config
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\bin\Debug\TrailingZero.exe
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\bin\Debug\TrailingZero.pdb
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\obj\Debug\TrailingZero.csprojAssemblyReference.cache
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\obj\Debug\TrailingZero.csproj.CoreCompileInputs.cache
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\obj\Debug\TrailingZero.exe
+C:\Users\hkazeem\source\repos\Telnet\TrailingZero\obj\Debug\TrailingZero.pdb
